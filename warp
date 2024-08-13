@@ -1,11 +1,4 @@
 #!/bin/sh
-#
-#  |=================================================================================|
-#  • Autoscript AIO By FN Project                                                    |
-#  • FN Project Developer @Rerechan02 | @PR_Aiman | @farell_aditya_ardian            |
-#  • Copyright 2024 18 Marc Indonesia [ Kebumen ] | [ Johor ] | [ 上海，中国 ]        |
-#  |=================================================================================|
-#
 
 # Safety options
 set -e # Exit on error
