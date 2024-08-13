@@ -67,6 +67,8 @@ wget git.io/warp.sh
 bash warp.sh install
 bash warp.sh wgd
 fi
+chmod /usr/bin/warp.sh
+chmod +x /usr/bin/*
 Clear
 }
 
