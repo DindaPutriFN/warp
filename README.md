@@ -3,5 +3,5 @@
 # Warp Cloudflare Installer
 *INSTALL ALL WARP CLOUDFLARE BY FN PROJECT*
 ```
-cd /root; wget -O wgcf.sh "https://raw.githubusercontent.com/DindaPutriFN/warp/main/install-warp.sh"; chmod +x /root/*; .//root/wgcf.sh
+cd /root; wget -O wgcf.sh "https://raw.githubusercontent.com/DindaPutriFN/warp/main/install-warp.sh"; chmod +x /root/*; /root/wgcf.sh
 ```
