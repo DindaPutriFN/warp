@@ -69,7 +69,7 @@ bash warp.sh wgd
 fi
 chmod /usr/bin/warp.sh
 chmod +x /usr/bin/*
-Clear
+clear
 }
 
 status() {
